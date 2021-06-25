@@ -1,2 +1,2 @@
 # PaniK-Py
-Blockchain in GoLang.
+Blockchain in Python
